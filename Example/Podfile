@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomControl_Example' do
+  pod 'CustomControl', :path => '../'
+
+  target 'CustomControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

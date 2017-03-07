@@ -1,0 +1,16 @@
+PODS:
+  - CustomControl (0.1.0)
+
+DEPENDENCIES:
+  - CustomControl (from `../`)
+
+EXTERNAL SOURCES:
+  CustomControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CustomControl: e55ce4bbcff7bee1c555489553736dd8c423c7d4
+
+PODFILE CHECKSUM: 058e59606f115b2a9fd6c636497edb1aab5215fe
+
+COCOAPODS: 1.2.0

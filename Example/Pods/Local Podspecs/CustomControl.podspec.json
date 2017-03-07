@@ -1,0 +1,22 @@
+{
+  "name": "CustomControl",
+  "version": "0.1.0",
+  "summary": "A short description of CustomControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alexandros Partonas/CustomControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexandros Partonas": "axel24par@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Alexandros Partonas/CustomControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomControl/Classes/**/*"
+}
