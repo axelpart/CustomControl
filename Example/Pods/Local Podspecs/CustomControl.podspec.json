@@ -1,9 +1,9 @@
 {
   "name": "CustomControl",
   "version": "0.1.0",
-  "summary": "A short description of CustomControl.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Alexandros Partonas/CustomControl",
+  "summary": "A subclass on UIControl highly customizable.",
+  "description": "An easy to use custom UISegmentedControl written in Swift.",
+  "homepage": "https://github.com/axelpart/CustomControl",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
